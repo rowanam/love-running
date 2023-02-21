@@ -210,3 +210,28 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 5%;
+    padding: 1%;
+    color: #3a3a3a;
+}
+
+.social-networks i:hover {
+    color: coral;
+}
