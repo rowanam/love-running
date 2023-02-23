@@ -275,6 +275,15 @@ footer {
     hr {
         display: none;
     }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+        border-left: none;
+        border-right: none;
+    }
 }
 
 /* for medium screen sizes 750px wide and down */
