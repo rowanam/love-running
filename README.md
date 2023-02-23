@@ -8,3 +8,7 @@ you can click on the link without your mouse being over the icon
 Not sure how to fix this
 
 *Get rid of the excess white space under the circular photo when calling the first media query, for tablet sizes
+
+*Fix the footer on mobile screen sizes (currently too high up)
+
+*Fix the circular photo on mobile screen sizes - slightly too wide, falls off the edge of the screen
